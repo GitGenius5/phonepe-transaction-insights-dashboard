@@ -12,9 +12,10 @@ https://app.powerbi.com/view?r=eyJrIjoiNzlkMDQzY2ItMjJkMy00NmVkLWE3NGItNTM3MjI0N
 
 ---
 
+
 ## Dashboard Screenshot
 
-[Dashboard Screenshot](https://github.com/GitGenius5/phonepe-transaction-insights-dashboard/blob/47c49548ab3910c04981de1ca1233269ca744a39/PhonePe%20Insight.png)
+![PhonePe Dashboard](dashboard_screenshot.png)(https://github.com/GitGenius5/phonepe-transaction-insights-dashboard/blob/47c49548ab3910c04981de1ca1233269ca744a39/PhonePe%20Insight.png)
 
 ---
 
