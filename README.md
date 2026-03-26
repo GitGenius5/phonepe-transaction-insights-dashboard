@@ -14,7 +14,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNzlkMDQzY2ItMjJkMy00NmVkLWE3NGItNTM3MjI0N
 
 ## Dashboard Screenshot
 
-![Dashboard Screenshot](PhonePe Insight.png)
+[Dashboard Screenshot](PhonePe Insight.png)
 
 ---
 
